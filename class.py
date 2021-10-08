@@ -11,4 +11,4 @@ def function (a,b):
 
 
 def function1 (a,b):
-    return a * b 
+    return a * b + 2
