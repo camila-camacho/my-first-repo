@@ -7,8 +7,8 @@ Created on Thu Oct  7 14:11:24 2021
 """
 
 def function (a,b):
-    return a + b 
+    return a + b - 3 
 
 
 def function1 (a,b):
-    return a * b + 2
+    return a * b + 9
