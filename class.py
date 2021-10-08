@@ -7,7 +7,7 @@ Created on Thu Oct  7 14:11:24 2021
 """
 
 def function (a,b):
-    return a + b - 3 
+    return "goodbye" 
 
 
 def function1 (a,b):
